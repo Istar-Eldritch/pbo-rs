@@ -2,7 +2,7 @@
 name = "pbo"
 version = "0.2.2"
 authors = ["Brett <brett@bmandesigns.com>"]
-edition = "2021"
+edition = "2024"
 description = "Read and Write PBO files"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/SynixeBrett/pbo-rs"
